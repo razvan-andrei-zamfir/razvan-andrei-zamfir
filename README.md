@@ -2,10 +2,12 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=4&height=260&section=header&text=Hi,%20I'm%20Razvan&desc=A%20web%20developer%20and%20SEO%20specialist&descAlignY=50&fontAlignY=30&fontColor=ffffff&fontSize=80">
 </p>
 <hr>
+
 - 👀 Interested in finding job opportunities in Web Development
 - 🌱 Currently learning React
 - 📫 You can reach me at razvan.zamfir.986@gmail.com or via my LinkedIn page
 - ⚡ Fun fact: although I always had a passion for technology, in the past 6 months I discovered that I enjoy programming, and that's how my learning quest started
+
 <hr>
 <h3> 🚀 &nbsp;Some Tools & Technologies I Have Used and Learned</h2>
 <p align="left">
