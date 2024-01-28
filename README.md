@@ -53,5 +53,3 @@ currently_learning: ["React.js", "Intermediate JavaScript Concepts", "Redux"]
 2024_Goals: ["Create 20+ Projects", "Learn 5 New Technologies"]
 hobbies: ["Casual Gaming", "Netflix & Chill", "Fitness Training"]
 ```
-
-![Snake animation](https://github.com/SpartanDev986/SpartanDev986/blob/output/github-contribution-grid-snake.svg)
