@@ -3,7 +3,7 @@
 </p>
 <hr>
 
-- 👀 Interested in finding job opportunities in Web Development
+- 👀 Interested in finding job opportunities in Frontend Web Development
 - 🌱 Currently learning React
 - 📫 You can reach me at razvan.zamfir.986@gmail.com or via my LinkedIn page
 - ⚡ Fun fact: although I always had a passion for technology, in the past 6 months I discovered that I enjoy programming, and that's how my learning quest started
