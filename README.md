@@ -1,5 +1,5 @@
 <p>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=4&height=260&section=header&text=Hi,%20I'm%20Razvan&desc=A%20CMS%20manager%20and%20Frontend%20Developer&descAlignY=50&fontAlignY=30&fontColor=ffffff&fontSize=80">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=4&height=260&section=header&text=Hi,%20I'm%20Razvan&desc=A%20CMS%20Manager%20and%20Frontend%20Developer&descAlignY=50&fontAlignY=30&fontColor=ffffff&fontSize=80">
 </p>
 <hr>
 
@@ -54,12 +54,12 @@ fields_of_interest:
 
 technical_background:
 [
-  "Online Platform & Social Media Manager",
+  "CMS & Social Media Manager",
   "IT Lead",
   "Project Manager"
 ]
 
-currently_learning: ["React.js", "Intermediate JavaScript Concepts", "Redux"]
+currently_learning: ["Intermediate JavaScript Concepts", "PHP"]
 2024_Goals: ["Create 20+ Projects", "Learn 5 New Technologies"]
 hobbies: ["Casual Gaming", "Netflix & Chill", "Fitness Training"]
 ```
