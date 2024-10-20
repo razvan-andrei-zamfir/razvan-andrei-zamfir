@@ -61,7 +61,7 @@ technical_background:
   "Project Manager"
 ]
 
-currently_learning: ["Intermediate JavaScript Concepts", "PHP"]
+currently_improving_on: ["Intermediate JavaScript Concepts", "PHP", "MySQL"]
 2024_Goals: ["Create 20+ Projects", "Learn 5 New Technologies"]
-hobbies: ["Casual Gaming", "Netflix & Chill", "Fitness Training"]
+hobbies: ["Psychology readings", "Fitness Training", "Netflix & Chill"]
 ```
