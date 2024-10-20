@@ -5,7 +5,7 @@
 
 - 👀 Interested in finding job opportunities in Frontend Web Development
 - 📫 You can reach me at razvan.zamfir.986@gmail.com or via my LinkedIn page
-- ⚡ Fun fact: although I have always had a passion for technology, in the past 9 months I discovered that I enjoy programming, and that's how my learning quest started
+- ⚡ Fun fact: although I've always had a passion for technology, in the past 12 months I discovered that I enjoy programming, and that's how my learning quest started
 
 <hr>
 <h3> 🚀 &nbsp;Some Tools & Technologies I Have Used and Learned</h2>
