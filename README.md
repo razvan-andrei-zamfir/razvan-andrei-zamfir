@@ -5,7 +5,7 @@
 
 - 👀 Interested in finding job opportunities in Frontend Web Development
 - 📫 You can reach me at razvan.zamfir.986@gmail.com or via my LinkedIn page
-- ⚡ Fun fact: although I've always had a passion for technology, in the past 12 months I discovered that I enjoy programming, and that's how my learning quest started
+- ⚡ Fun fact: although I've always had a passion for technology, in the past 12 months I discovered that I enjoy programming and building websites and apps, and that's how my learning quest started
 
 <hr>
 <h3> 🚀 &nbsp;Tools & Technologies I Have Used and Learned</h2>
@@ -39,11 +39,11 @@ MORE ABOUT ME:
 
 name: Razvan-Andrei Zamfir
 located_in: Hermagor, Austria
-current_job: Online Platform Manager
+current_job: Freelance Web Developer
 education:
 [
   "Self-Taught Developer and Designer",
-  "Bachelor's in Business Management"
+  "Bachelor's Degree in Intercultural Business Management"
 ]
 
 fields_of_interest:
@@ -56,7 +56,7 @@ fields_of_interest:
 
 technical_background:
 [
-  "CMS & Social Media Manager",
+  "WordPress & Social Media Manager",
   "IT Lead",
   "Project Manager"
 ]
