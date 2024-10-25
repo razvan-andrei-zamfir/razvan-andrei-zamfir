@@ -8,7 +8,7 @@
 - ⚡ Fun fact: although I've always had a passion for technology, in the past 12 months I discovered that I enjoy programming, and that's how my learning quest started
 
 <hr>
-<h3> 🚀 &nbsp;Some Tools & Technologies I Have Used and Learned</h2>
+<h3> 🚀 &nbsp;Tools & Technologies I Have Used and Learned</h2>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css" width="45" height="45"/>
